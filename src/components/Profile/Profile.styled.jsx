@@ -9,8 +9,7 @@ export const ProfileBox = styled.div`
   margin-bottom: 50px;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
   border-radius: 5px;
-  background-color: rgba(242, 230, 0, 0.07)
-;
+  background-color: rgba(242, 230, 0, 0.07);
 `;
 
 export const Description = styled.div`

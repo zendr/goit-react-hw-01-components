@@ -10,7 +10,7 @@ import {
   UserLocation,
   LabelStats,
   QuantityStats,
-} from './profile.styled';
+} from './Profile.styled';
 
 export const Profile = ({
   username,
