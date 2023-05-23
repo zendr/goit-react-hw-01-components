@@ -4,7 +4,7 @@ import {
   ItemStatus,
   AvatarItem,
   FriendName,
-} from './friendListItem.styled';
+} from './FriendListItem.styled';
 
 export const FriendListItem = ({ avatar, name, isOnline, id }) => {
   return (
