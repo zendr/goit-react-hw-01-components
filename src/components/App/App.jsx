@@ -1,7 +1,7 @@
 import { AppContainer } from './App.styled';
 import { Profile } from 'components/Profile/Profile';
 import user from 'data/user';
-import { Statistics } from 'components/Statistics/Statistics';
+import { Statistics } from 'components/Statistics/statistics';
 import data from 'data/data';
 import { FriendsList } from 'components/FriendList/FriendList';
 import friends from 'data/friends';
